@@ -1,0 +1,221 @@
+[Script Info]
+Title: English (US)
+Original Script: asmikace  [http://www.crunchyroll.com/user/asmikace]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.17,0:00:05.00,On Top,,0000,0000,0000,,EXPERIMENT NO. 3\NDASH-TAN
+Dialogue: 0,0:00:05.00,0:00:06.33,On Top,,0000,0000,0000,,SCIENCE\NEXPERIMENT NO. 3\NDASH-TAN
+Dialogue: 0,0:00:06.33,0:00:08.50,On Top,,0000,0000,0000,,SCIENCE
+Dialogue: 0,0:00:06.54,0:00:08.48,Default,,0000,0000,0000,,Ma'am... What IS this?
+Dialogue: 0,0:00:08.92,0:00:11.29,Default,,0000,0000,0000,,Don't get all worked up over it, Tanaka!
+Dialogue: 0,0:00:12.21,0:00:14.08,Default,,0000,0000,0000,,Ma'am, everything is ready.
+Dialogue: 0,0:00:14.08,0:00:16.00,Default,,0000,0000,0000,,Nice! Okay, let's begin!
+Dialogue: 0,0:00:18.33,0:00:19.63,Default,,0000,0000,0000,,Give me your underwear, Tanaka.
+Dialogue: 0,0:00:19.63,0:00:20.79,Default,,0000,0000,0000,,Are you a perv or something?
+Dialogue: 0,0:00:20.79,0:00:22.13,Default,,0000,0000,0000,,Give me your underwear, Tanaka!
+Dialogue: 0,0:00:22.13,0:00:23.00,Default,,0000,0000,0000,,Are you a perv or something?
+Dialogue: 0,0:01:23.46,0:01:25.92,Default,,0000,0000,0000,,What are you talking about? \NThat's just weird..
+Dialogue: 0,0:01:25.92,0:01:28.04,Default,,0000,0000,0000,,I need you to drop those drawers!
+Dialogue: 0,0:01:28.04,0:01:31.13,Default,,0000,0000,0000,,It's so I can test out my latest invention...
+Dialogue: 0,0:01:31.13,0:01:33.79,Default,,0000,0000,0000,,Dash-tan, the instant deodorizer!
+Dialogue: 0,0:01:34.33,0:01:38.04,Default,,0000,0000,0000,,Dash-tan emits mysterious\Nelectromagnetic waves at its target,
+Dialogue: 0,0:01:38.38,0:01:42.54,Default,,0000,0000,0000,,allowing it to instantly smite any and all odors,\Nguiding them straight to the heavens.
+Dialogue: 0,0:01:44.96,0:01:46.75,Default,,0000,0000,0000,,And it's self-propelled!
+Dialogue: 0,0:01:47.13,0:01:49.18,Default,,0000,0000,0000,,I don't think that's really necessary...
+Dialogue: 0,0:01:49.18,0:01:53.04,Default,,0000,0000,0000,,In any case, we need the right medium\Nto test its ability to deodorize.
+Dialogue: 0,0:01:53.04,0:01:56.01,Default,,0000,0000,0000,,After consulting with Yamashita, \Nit was determined that the
+Dialogue: 0,0:01:56.01,0:01:58.01,Default,,0000,0000,0000,,most odoriferous substance at hand
+Dialogue: 0,0:01:58.54,0:01:59.58,Default,,0000,0000,0000,,is YOUR underwear!
+Dialogue: 0,0:01:59.58,0:02:01.50,Default,,0000,0000,0000,,It was your drawers hands down, Tanaka!
+Dialogue: 0,0:02:02.50,0:02:04.00,Default,,0000,0000,0000,,This is beyond rude...
+Dialogue: 0,0:02:04.46,0:02:07.58,Default,,0000,0000,0000,,Now then! We won't mind at all,\Nso go ahead and drop those pants.
+Dialogue: 0,0:02:07.58,0:02:13.04,Default,,0000,0000,0000,,But I'LL mind! Please stop \Nalways just picking on me.
+Dialogue: 0,0:02:13.04,0:02:15.88,Default,,0000,0000,0000,,Why can't all three of us bring something?
+Dialogue: 0,0:02:16.29,0:02:19.92,Default,,0000,0000,0000,,True, the more samples, the better...
+Dialogue: 0,0:02:19.92,0:02:21.04,Default,,0000,0000,0000,,What do you say, Yamashita?
+Dialogue: 0,0:02:21.04,0:02:23.33,Default,,0000,0000,0000,,Your reasoning is sound.
+Dialogue: 0,0:02:23.33,0:02:25.04,Default,,0000,0000,0000,,All right, fine.
+Dialogue: 0,0:02:25.42,0:02:27.67,Default,,0000,0000,0000,,We shall contribute something \Nas well. However!
+Dialogue: 0,0:02:27.67,0:02:28.88,Default,,0000,0000,0000,,This is a one-time deal!
+Dialogue: 0,0:02:28.88,0:02:31.00,Default,,0000,0000,0000,,Please do it EVERY time.
+Dialogue: 0,0:02:33.79,0:02:35.29,Default,,0000,0000,0000,,Standing there demanding that girls give up
+Dialogue: 0,0:02:35.29,0:02:37.75,Default,,0000,0000,0000,,their panties... You're a real piece\Nof garbage, aren't you?!
+Dialogue: 0,0:02:37.75,0:02:40.01,Default,,0000,0000,0000,,No, this isn't what I meant!
+Dialogue: 0,0:02:40.67,0:02:44.11,Default,,0000,0000,0000,,Tanaka, you give up your indoor slippers.\NYamashita, we'll take your socks.
+Dialogue: 0,0:02:44.11,0:02:46.02,Default,,0000,0000,0000,,And I, Ueno...
+Dialogue: 0,0:02:46.58,0:02:49.02,Default,,0000,0000,0000,,shall contribute these tights!
+Dialogue: 0,0:02:49.75,0:02:51.04,Default,,0000,0000,0000,,Now then, first off...
+Dialogue: 0,0:02:51.38,0:02:53.63,Default,,0000,0000,0000,,Okay, Yamashita. I'll take these.
+Dialogue: 0,0:02:54.54,0:02:55.63,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:02:56.38,0:02:58.71,Default,,0000,0000,0000,,Please smell each item.
+Dialogue: 0,0:02:58.71,0:02:59.83,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:02:59.83,0:03:03.04,Default,,0000,0000,0000,,We have to, or we won't know\Nif the deodorization worked.
+Dialogue: 0,0:03:03.46,0:03:05.04,Default,,0000,0000,0000,,I will take the first sniff.
+Dialogue: 0,0:03:05.04,0:03:08.00,Default,,0000,0000,0000,,Hmm, hmm... Yes, I see.
+Dialogue: 0,0:03:08.00,0:03:09.04,Default,,0000,0000,0000,,Huff, huff...
+Dialogue: 0,0:03:09.83,0:03:13.17,Default,,0000,0000,0000,,Sure enough, these are a schoolgirl's socks,\Nworn all day until well after class.
+Dialogue: 0,0:03:13.17,0:03:14.00,Default,,0000,0000,0000,,That was unoriginal.
+Dialogue: 0,0:03:14.63,0:03:15.96,Default,,0000,0000,0000,,You're up next, Tanaka!
+Dialogue: 0,0:03:20.33,0:03:22.01,Default,,0000,0000,0000,,You fool. You've dug your own grave!
+Dialogue: 0,0:03:22.88,0:03:26.75,Default,,0000,0000,0000,,This was all your idea, so \Nthere's no way you can refuse!
+Dialogue: 0,0:03:26.75,0:03:29.67,Default,,0000,0000,0000,,And now, worm, you will sniff\Nthe tights of a girl that's right in front of you
+Dialogue: 0,0:03:29.67,0:03:32.04,Default,,0000,0000,0000,,and experience the SHAME of\Nhaving to share your thoughts!
+Dialogue: 0,0:03:32.04,0:03:35.04,Default,,0000,0000,0000,,Go on, squirm in protest as you always do!
+Dialogue: 0,0:03:35.58,0:03:37.63,Default,,0000,0000,0000,,Oh, it looks like he's \Nalready smelling them...
+Dialogue: 0,0:03:38.21,0:03:42.50,Default,,0000,0000,0000,,Bweheheh! I get it:\NYou dove right in to cover up your embarrassment.
+Dialogue: 0,0:03:42.50,0:03:44.54,Default,,0000,0000,0000,,But you lack conviction, Tanaka!
+Dialogue: 0,0:03:45.00,0:03:47.54,Default,,0000,0000,0000,,The shame is starting to show on your face.
+Dialogue: 0,0:03:48.04,0:03:49.54,Default,,0000,0000,0000,,Bweheheh.
+Dialogue: 0,0:03:49.88,0:03:51.17,Default,,0000,0000,0000,,Bweheheh!
+Dialogue: 0,0:03:52.83,0:03:53.50,Default,,0000,0000,0000,,These STINK!
+Dialogue: 0,0:03:56.29,0:03:59.83,Default,,0000,0000,0000,,W-well, if they didn't stink,\Nthey wouldn't make for good test samples.
+Dialogue: 0,0:03:59.83,0:04:02.01,Default,,0000,0000,0000,,True, but these are just...
+Dialogue: 0,0:04:02.54,0:04:03.67,Default,,0000,0000,0000,,They reek!
+Dialogue: 0,0:04:04.25,0:04:06.38,Default,,0000,0000,0000,,Wait, this... Huh?
+Dialogue: 0,0:04:08.13,0:04:09.96,Default,,0000,0000,0000,,Does this always happen?
+Dialogue: 0,0:04:11.79,0:04:14.04,Default,,0000,0000,0000,,Senpai, please let me see those.
+Dialogue: 0,0:04:14.63,0:04:16.29,Default,,0000,0000,0000,,Sniff. Sniff, sniff.
+Dialogue: 0,0:04:16.65,0:04:18.71,Default,,0000,0000,0000,,No, I'd say these are normal.
+Dialogue: 0,0:04:18.71,0:04:19.88,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:04:20.29,0:04:22.75,Default,,0000,0000,0000,,My socks are about the same.
+Dialogue: 0,0:04:22.75,0:04:25.04,Default,,0000,0000,0000,,Fine, then let me see your socks.
+Dialogue: 0,0:04:27.46,0:04:30.71,Default,,0000,0000,0000,,No, Ueno-san's tights smell WAY worse.
+Dialogue: 0,0:04:30.71,0:04:32.04,Default,,0000,0000,0000,,I'm telling you, they're the same!
+Dialogue: 0,0:04:32.71,0:04:36.00,Default,,0000,0000,0000,,Yamashita-san, you don't get it\Nbecause this is YOUR smell.
+Dialogue: 0,0:04:36.00,0:04:39.00,On Top,,0000,0000,0000,,Ueno  Tanaka  Yamashita\NW... Wait. Look at Yamashita's socks!
+Dialogue: 0,0:04:37.08,0:04:40.25,Default,,0000,0000,0000,,But Tanaka-san's tights stink \Nlike eight of your socks!
+Dialogue: 0,0:04:40.25,0:04:41.54,Default,,0000,0000,0000,,They don't stink!
+Dialogue: 0,0:04:42.04,0:04:45.01,Default,,0000,0000,0000,,Well, I think we've got the general idea.\NLet's go deodorize these.
+Dialogue: 0,0:04:45.75,0:04:47.29,Default,,0000,0000,0000,,We'll do nothing of the sort!
+Dialogue: 0,0:04:47.29,0:04:48.13,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:48.13,0:04:50.04,Default,,0000,0000,0000,,They don't need cleaning \Nbecause they don't stink!
+Dialogue: 0,0:04:50.04,0:04:55.04,On Top,,0000,0000,0000,,SCIENCE
+Dialogue: 0,0:04:51.21,0:04:53.54,Default,,0000,0000,0000,,I know if something stinks, and those stink!
+Dialogue: 0,0:04:53.54,0:04:55.50,Default,,0000,0000,0000,,No! No way, forget it!
+Dialogue: 0,0:04:55.88,0:04:58.54,Default,,0000,0000,0000,,They don't smell, so they're fine as is!
+Dialogue: 0,0:04:58.54,0:05:01.15,Default,,0000,0000,0000,,Let's clean them while we have the chance!
+Dialogue: 0,0:05:01.58,0:05:04.54,Default,,0000,0000,0000,,This is a GOOD smell, one \Nthat's unique to us girls!
+Dialogue: 0,0:05:04.54,0:05:08.67,Default,,0000,0000,0000,,No, it's nothing cute like that! \NThese things reek, period!
+Dialogue: 0,0:05:09.04,0:05:11.04,Default,,0000,0000,0000,,They don't stink! What \Nare you talking about?!
+Dialogue: 0,0:05:11.04,0:05:13.38,Default,,0000,0000,0000,,They DO stink! It's a fact!
+Dialogue: 0,0:05:15.83,0:05:16.63,Default,,0000,0000,0000,,Ma'am!
+Dialogue: 0,0:05:20.79,0:05:21.79,Default,,0000,0000,0000,,Ma'am!
+Dialogue: 0,0:05:26.21,0:05:28.38,Default,,0000,0000,0000,,MA'AM!
+Dialogue: 0,0:05:35.08,0:05:36.08,On Top,,0000,0000,0000,,LAB
+Dialogue: 0,0:05:36.08,0:05:39.04,On Top,,0000,0000,0000,,LAB\NEXPERIMENT NO. 4\N1-7-6 PROTECTIVE GEAR
+Dialogue: 0,0:05:36.33,0:05:38.75,Default,,0000,0000,0000,,Hmm, yeah...
+Dialogue: 0,0:05:39.04,0:05:40.29,On Top,,0000,0000,0000,,EXPERIMENT NO. 4\N1-7-6 PROTECTIVE GEAR
+Dialogue: 0,0:05:39.71,0:05:41.29,Default,,0000,0000,0000,,Hold on a minute.
+Dialogue: 0,0:05:46.33,0:05:48.33,Default,,0000,0000,0000,,I see right through you, Tanaka.
+Dialogue: 0,0:05:48.33,0:05:51.04,Default,,0000,0000,0000,,I'm sure you've already noticed...
+Dialogue: 0,0:05:51.79,0:05:54.75,Default,,0000,0000,0000,,That there's something different \Nabout this body, that is!
+Dialogue: 0,0:05:55.04,0:05:57.67,On Top,,0000,0000,0000,,Thickness\NShock-absorbing gel
+Dialogue: 0,0:05:55.25,0:05:57.38,Default,,0000,0000,0000,,One minute ago...
+Dialogue: 0,0:05:57.67,0:06:02.67,Default,,0000,0000,0000,,Put simply! Beneath this seven-layer,\Nultra-thin elastic material
+Dialogue: 0,0:05:57.67,0:06:10.01,Default,,0000,0000,0000,,Thickness
+Dialogue: 0,0:06:02.67,0:06:04.88,Default,,0000,0000,0000,,lie six layers of shock-absorbing gel.
+Dialogue: 0,0:06:04.88,0:06:07.38,Default,,0000,0000,0000,,With this, I was able to make\Nprotective clothing no thicker than normal fabric,
+Dialogue: 0,0:06:07.38,0:06:08.67,Default,,0000,0000,0000,,yet able to absorb any and all attacks.
+Dialogue: 0,0:06:09.17,0:06:10.00,Default,,0000,0000,0000,,Wow...
+Dialogue: 0,0:06:10.42,0:06:12.63,Default,,0000,0000,0000,,But, you didn't bring it with you today?
+Dialogue: 0,0:06:12.63,0:06:15.25,Default,,0000,0000,0000,,Hmph! Do you not get it, Tanaka?
+Dialogue: 0,0:06:15.25,0:06:18.04,Default,,0000,0000,0000,,This "1-7-6 protective gear" \Nthat I have perfected...
+Dialogue: 0,0:06:19.17,0:06:21.58,Default,,0000,0000,0000,,is already upon my person!
+Dialogue: 0,0:06:22.25,0:06:25.96,Default,,0000,0000,0000,,If you can deduce where it is,\Nthen strike me with everything you've got!
+Dialogue: 0,0:06:25.96,0:06:28.63,Default,,0000,0000,0000,,You will tremble in fear at \Nhow thin yet effective it is!
+Dialogue: 0,0:06:29.38,0:06:32.63,Default,,0000,0000,0000,,Whoever guesses correctly shall\Nreceive this as a present!
+Dialogue: 0,0:06:32.96,0:06:34.63,Default,,0000,0000,0000,,I don't really care about that.
+Dialogue: 0,0:06:35.21,0:06:38.29,Default,,0000,0000,0000,,Naturally I, Ueno, have outfitted \Nmyself with Bra-Type Protective Gear.
+Dialogue: 0,0:06:38.29,0:06:42.33,Default,,0000,0000,0000,,Taking my normal appearance into account,\Nthe difference should be obvious.
+Dialogue: 0,0:06:43.79,0:06:45.67,Default,,0000,0000,0000,,Thus, I am unbeatable!
+Dialogue: 0,0:06:44.75,0:06:46.05,On Top,,0000,0000,0000,,UNBEATABLE
+Dialogue: 0,0:06:46.46,0:06:51.01,Default,,0000,0000,0000,,Touching a woman's chest is,\Nof course, forbidden! What's more...
+Dialogue: 0,0:06:51.01,0:06:53.50,Default,,0000,0000,0000,,Tanaka is the picture of male puberty.
+Dialogue: 0,0:06:53.50,0:06:57.04,Default,,0000,0000,0000,,At his age, he tries to hide\Nwhen he's getting an eyeful of cleavage...
+Dialogue: 0,0:06:57.04,0:07:13.04,OS,,0000,0000,0000,,(Forcible Indecency) Article 176 /\NA person who, through assault or\Nintimidation, forcibly commits an\Nindecent act upon a male or female\Nof not less than 13 years of age\Nshall be punished by imprisonment\Nwith work for not less than six\Nmonths but not more than 10 years.
+Dialogue: 0,0:06:57.46,0:07:01.46,Default,,0000,0000,0000,,but he's going to have to openly stare\Nif he wants to get the deets on these teats!
+Dialogue: 0,0:07:01.46,0:07:03.63,Default,,0000,0000,0000,,If he does that to where he \Ncan point out the difference,
+Dialogue: 0,0:07:03.63,0:07:06.21,Default,,0000,0000,0000,,he'll be admitting that he's \Naware of my normal bust size!
+Dialogue: 0,0:07:06.58,0:07:09.25,Default,,0000,0000,0000,,And the crux of this artfully \Ncrafted, multi-layered trap:
+Dialogue: 0,0:07:09.25,0:07:13.04,Default,,0000,0000,0000,,Forever after, Tanaka's thoughts\Nwill turn to the jiggle of these jugs!
+Dialogue: 0,0:07:14.17,0:07:16.00,Default,,0000,0000,0000,,Ah! I've got it!
+Dialogue: 0,0:07:16.38,0:07:17.04,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:07:30.29,0:07:32.13,Default,,0000,0000,0000,,Wait a damn minute!
+Dialogue: 0,0:07:33.79,0:07:37.50,Default,,0000,0000,0000,,How dare you smack a young girl's\Npert buttocks, you ape?!
+Dialogue: 0,0:07:37.50,0:07:40.04,Default,,0000,0000,0000,,Well, you were the one who \Ntold me to hit you hard.
+Dialogue: 0,0:07:40.04,0:07:43.99,Default,,0000,0000,0000,,But not HERE! Not here,\Ndammit! Not friggin here!
+Dialogue: 0,0:07:43.99,0:07:45.76,Default,,0000,0000,0000,,Tone it down a notch!
+Dialogue: 0,0:07:45.96,0:07:48.25,Default,,0000,0000,0000,,You need to look somewhere you usually don't!
+Dialogue: 0,0:07:51.33,0:07:53.04,Default,,0000,0000,0000,,Come on, take a good look at-
+Dialogue: 0,0:07:53.04,0:07:55.38,Default,,0000,0000,0000,,Ah! This has GOT to be it!
+Dialogue: 0,0:07:58.08,0:08:00.04,Default,,0000,0000,0000,,Dammit...
+Dialogue: 0,0:08:00.54,0:08:03.04,Default,,0000,0000,0000,,I JUST TOLD YOU, IT'S NOT THERE!
+Dialogue: 0,0:08:03.04,0:08:07.79,Default,,0000,0000,0000,,No, I'm sure it is. You always \Nwear tights, but not today.
+Dialogue: 0,0:08:07.79,0:08:12.01,Default,,0000,0000,0000,,I took them off because you kept\Nsaying how much they stink, you idiot!
+Dialogue: 0,0:08:13.08,0:08:16.54,Default,,0000,0000,0000,,Hey, hold on. You're trying to\Nsmack me AGAIN, aren't you?
+Dialogue: 0,0:08:18.71,0:08:20.04,Default,,0000,0000,0000,,Yamashita, help-!
+Dialogue: 0,0:08:20.04,0:08:22.04,On Top,,0000,0000,0000,,LAB
+Dialogue: 0,0:08:25.04,0:08:28.21,Default,,0000,0000,0000,,Ma'am, can you please stop \Nacting like it hurts?
+Dialogue: 0,0:08:28.21,0:08:31.54,Default,,0000,0000,0000,,You should have cut that \Nout after the first slap.
+Dialogue: 0,0:08:33.21,0:08:34.04,Default,,0000,0000,0000,,Time out.
+Dialogue: 0,0:08:34.54,0:08:36.79,Default,,0000,0000,0000,,Time out, time out! To be continued!
+Dialogue: 0,0:08:37.25,0:08:40.04,Default,,0000,0000,0000,,Dammit! I swear, there's \Nsomething wrong with that boy!
+Dialogue: 0,0:08:42.83,0:08:43.75,Default,,0000,0000,0000,,Ma'am.
+Dialogue: 0,0:08:49.08,0:08:50.63,Default,,0000,0000,0000,,You can't get away.
+Dialogue: 0,0:08:54.33,0:08:57.63,Default,,0000,0000,0000,,I know what you're up to.\NYou're calling time out so you can change, right?
+Dialogue: 0,0:08:57.63,0:08:59.13,Default,,0000,0000,0000,,N-no!
+Dialogue: 0,0:08:59.13,0:09:02.13,Default,,0000,0000,0000,,You always do this sort of thing.
+Dialogue: 0,0:09:04.02,0:09:04.75,On Top,,0000,0000,0000,,SMACK
+Dialogue: 0,0:09:04.46,0:09:08.13,Default,,0000,0000,0000,,Look, just fess up. Drop the act already!
+Dialogue: 0,0:09:04.75,0:09:05.13,On Top,,0000,0000,0000,,SLAP\NSMACK
+Dialogue: 0,0:09:05.13,0:09:05.54,On Top,,0000,0000,0000,,SLAP
+Dialogue: 0,0:09:05.54,0:09:06.21,On Top,,0000,0000,0000,,POW
+Dialogue: 0,0:09:06.21,0:09:06.83,On Top,,0000,0000,0000,,WHACK
+Dialogue: 0,0:09:06.83,0:09:07.42,On Top,,0000,0000,0000,,SLAP
+Dialogue: 0,0:09:07.42,0:09:08.08,On Top,,0000,0000,0000,,POW!
+Dialogue: 0,0:09:08.08,0:09:08.79,On Top,,0000,0000,0000,,WHAM
+Dialogue: 0,0:09:08.79,0:09:09.38,On Top,,0000,0000,0000,,SMAAACK
+Dialogue: 0,0:09:09.38,0:09:10.08,On Top,,0000,0000,0000,,BLAM
+Dialogue: 0,0:09:10.08,0:09:19.04,OS,,0000,0000,0000,,\NA person who, through assault or\Nintimidation, forcibly commits an\Nindecent act upon a male or female\Nof not less than 13 years of age\Nshall be punished by imprisonment\Nwith work for not less than six\Nmonths but not more than 10 years.\N(Revisions made to Articles 156\N(2004) and 72 (2016))
+Dialogue: 0,0:09:13.63,0:09:15.63,Default,,0000,0000,0000,,This is it. I'm right, aren't I?
+Dialogue: 0,0:09:19.96,0:09:23.71,Default,,0000,0000,0000,,Yes, that's it! You're right!
+Dialogue: 0,0:09:25.29,0:09:28.00,Default,,0000,0000,0000,,It was obvious from the start, \Nso there's no reason to cry.
+Dialogue: 0,0:09:29.13,0:09:30.62,Default,,0000,0000,0000,,I'm going home now.
+Dialogue: 0,0:09:30.62,0:09:32.17,Default,,0000,0000,0000,,Ah, Ma'am!
+Dialogue: 0,0:09:32.83,0:09:34.01,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:38.08,0:09:39.63,Default,,0000,0000,0000,,Let me have that gear or whatever.
+Dialogue: 0,0:09:40.08,0:09:42.04,Default,,0000,0000,0000,,You said you'd give it to \Nme if I guessed correctly.
+Dialogue: 0,0:09:42.46,0:09:44.60,Default,,0000,0000,0000,,Y-you bastard!
+Dialogue: 0,0:09:45.54,0:09:48.04,Default,,0000,0000,0000,,Wait, hold on. Keep calm \Nand make the right call.
+Dialogue: 0,0:09:48.38,0:09:52.02,Default,,0000,0000,0000,,If I push back too hard, this \Nass of mine is done for.
+Dialogue: 0,0:09:52.92,0:09:55.67,Default,,0000,0000,0000,,This time, I'll do as he says\Nand bring this thing to a close.
+Dialogue: 0,0:09:56.46,0:09:59.58,Default,,0000,0000,0000,,Still, I can't give him what's not there.
+Dialogue: 0,0:10:00.04,0:10:02.83,Default,,0000,0000,0000,,Think, Ueno! What can I do?
+Dialogue: 0,0:10:04.33,0:10:09.00,Default,,0000,0000,0000,,Huh... THIS is your protective gear?\NThey just look like regular panties.
+Dialogue: 0,0:10:09.46,0:10:12.13,Default,,0000,0000,0000,,B-because I made them that way.
+Dialogue: 0,0:10:12.79,0:10:16.51,Default,,0000,0000,0000,,You know, I've thought \Nthis for a while now...
+Dialogue: 0,0:10:17.58,0:10:21.01,Default,,0000,0000,0000,,You really have no fashion sense, do  you?
+Dialogue: 0,0:10:21.46,0:10:25.33,Default,,0000,0000,0000,,Still, it's not like I'd have any use for these,\Nso you can have them back.
+Dialogue: 0,0:10:26.71,0:10:30.33,Default,,0000,0000,0000,,Just kill me already!
+Dialogue: 0,0:10:30.33,0:10:32.33,Default,,0000,0000,0000,,

@@ -1,0 +1,233 @@
+[Script Info]
+Title: English (US)
+Original Script: asmikace  [http://www.crunchyroll.com/user/asmikace]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.54,0:00:07.98,On Top,,0000,0000,0000,,Experiment No. 15\NCoitsu Nate Luna D
+Dialogue: 0,0:00:05.92,0:00:07.58,Default,,0000,0000,0000,,S-so sleepy...
+Dialogue: 0,0:00:20.50,0:00:21.75,Default,,0000,0000,0000,,"Are you all right, Ma'am?"
+Dialogue: 0,0:00:21.75,0:00:23.00,Default,,0000,0000,0000,,You should be askin'!
+Dialogue: 0,0:00:23.00,0:00:29.33,Default,,0000,0000,0000,,Love always drives me, and yet
+Dialogue: 0,0:00:35.79,0:00:41.77,Default,,0000,0000,0000,,The wind against the glass \Ncreates an image of you
+Dialogue: 0,0:00:41.77,0:00:47.23,Default,,0000,0000,0000,,What "color" will that wind be today?\NI want to experience it, completely
+Dialogue: 0,0:00:47.23,0:00:50.27,Default,,0000,0000,0000,,Off in the corners of the classroom
+Dialogue: 0,0:00:50.27,0:00:53.57,Default,,0000,0000,0000,,Through the tiniest of magics
+Dialogue: 0,0:00:54.13,0:00:58.41,Default,,0000,0000,0000,,Another miracle occurs!
+Dialogue: 0,0:00:58.41,0:00:59.83,Default,,0000,0000,0000,,A premonition of love
+Dialogue: 0,0:00:59.83,0:01:05.58,Default,,0000,0000,0000,,My heart shouldn't be so uneasy, \NI don't know what's next
+Dialogue: 0,0:01:05.58,0:01:10.50,Default,,0000,0000,0000,,Aah! What is it that throws \Nmy heart into turmoil?
+Dialogue: 0,0:01:10.50,0:01:12.00,Default,,0000,0000,0000,,This sudden spark
+Dialogue: 0,0:01:12.00,0:01:17.76,Default,,0000,0000,0000,,Love always drives me, and yet
+Dialogue: 0,0:01:17.76,0:01:22.33,Default,,0000,0000,0000,,Someone, someday, deliver \Nthese feelings to you!
+Dialogue: 0,0:01:23.38,0:01:26.54,On Top,,0000,0000,0000,,LAB
+Dialogue: 0,0:01:23.46,0:01:25.58,Default,,0000,0000,0000,,"Were you up late last night?"
+Dialogue: 0,0:01:25.58,0:01:26.54,Default,,0000,0000,0000,,You should be askin'!
+Dialogue: 0,0:01:26.54,0:01:28.42,Default,,0000,0000,0000,,"So then, that means...?"
+Dialogue: 0,0:01:28.42,0:01:29.54,Default,,0000,0000,0000,,You should be askin'!
+Dialogue: 0,0:01:29.54,0:01:31.58,Default,,0000,0000,0000,,I'm not sure what to make \Nof that last part there...
+Dialogue: 0,0:01:31.58,0:01:34.83,Default,,0000,0000,0000,,But, Ma'am, if you're that tired,\Nshouldn't you just go home?
+Dialogue: 0,0:01:34.83,0:01:35.54,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:01:35.88,0:01:37.75,Default,,0000,0000,0000,,I don't wanna go home today!
+Dialogue: 0,0:01:38.79,0:01:39.83,Default,,0000,0000,0000,,You don't say...
+Dialogue: 0,0:01:40.58,0:01:42.08,Default,,0000,0000,0000,,"And why don't you want to go home?"
+Dialogue: 0,0:01:42.08,0:01:43.54,Default,,0000,0000,0000,,You should be askin'!
+Dialogue: 0,0:01:43.92,0:01:46.17,Default,,0000,0000,0000,,It's as if the words bounce right off you!
+Dialogue: 0,0:01:46.17,0:01:48.91,Default,,0000,0000,0000,,You're like the egg crate \Nsoundproofing foam that's on the
+Dialogue: 0,0:01:48.91,0:01:50.82,Default,,0000,0000,0000,,walls in the music room!
+Dialogue: 0,0:01:50.82,0:01:54.00,Default,,0000,0000,0000,,Ma'am, you don't seem \Nsleepy at all right now...
+Dialogue: 0,0:01:54.21,0:01:56.97,Default,,0000,0000,0000,,Listen up, Tanaka: There are times when,\Nthough sleep beckons,
+Dialogue: 0,0:01:56.97,0:01:58.51,Default,,0000,0000,0000,,the only choice is to persevere!
+Dialogue: 0,0:01:58.96,0:02:00.63,Default,,0000,0000,0000,,And it is such cases...
+Dialogue: 0,0:02:02.29,0:02:05.04,Default,,0000,0000,0000,,that THIS item is of use!
+Dialogue: 0,0:02:06.21,0:02:08.00,Default,,0000,0000,0000,,Coitsu Nate Luna D!
+Dialogue: 0,0:02:08.33,0:02:10.11,Default,,0000,0000,0000,,It contains the next-generation \Ningredient Siestorin,
+Dialogue: 0,0:02:10.11,0:02:12.16,Default,,0000,0000,0000,,which dispels fatigue by \Nproviding the equivalent
+Dialogue: 0,0:02:12.16,0:02:14.99,Default,,0000,0000,0000,,of 10 hours' worth of uninterrupted sleep.
+Dialogue: 0,0:02:15.29,0:02:19.42,Default,,0000,0000,0000,,This, combined with the effects of the\Ningredient henjinate, creates a "sub-personality"
+Dialogue: 0,0:02:19.42,0:02:22.96,Default,,0000,0000,0000,,that allows for thought processes\Ndistinct from the conscious self.
+Dialogue: 0,0:02:23.75,0:02:29.13,Default,,0000,0000,0000,,In other words, these pills allow one to engage\Nin rational dialogue even when asleep!
+Dialogue: 0,0:02:30.42,0:02:31.13,Default,,0000,0000,0000,,Now take one!
+Dialogue: 0,0:02:31.13,0:02:33.50,Default,,0000,0000,0000,,Uh, no, I'm not really sleepy.
+Dialogue: 0,0:02:34.04,0:02:36.79,Default,,0000,0000,0000,,You should try this one out yourself, Ma'am.
+Dialogue: 0,0:02:36.79,0:02:40.51,Default,,0000,0000,0000,,What's this, Tanaka-kun?\NCould it be that you haven't noticed?
+Dialogue: 0,0:02:40.51,0:02:41.42,On Top,,0000,0000,0000,,Today, when I came back to the classroom...
+Dialogue: 0,0:02:41.42,0:02:45.13,Default,,0000,0000,0000,,Till just a little while ago,\NYamashita and I were COMPLETELY asleep!
+Dialogue: 0,0:02:41.42,0:02:45.13,On Top,,0000,0000,0000,,Today, when I came back to the classroom...
+Dialogue: 0,0:02:43.88,0:02:44.54,On Top,,0000,0000,0000,,YEAH, YEAH.
+Dialogue: 0,0:02:44.54,0:02:45.54,On Top,,0000,0000,0000,,YEAH, YEAH.\NASLEEP
+Dialogue: 0,0:02:45.67,0:02:48.08,Default,,0000,0000,0000,,As of now, Yamashita \Nremains in a deep slumber!
+Dialogue: 0,0:02:48.08,0:02:50.52,Default,,0000,0000,0000,,Huh? But she's reading a book and...
+Dialogue: 0,0:02:50.52,0:02:55.52,OS,,0000,0000,0000,,SUPREME\NENLIGHTENMENT\NAn Introduction to the Items\Nof Buddhist Ritual NAMU
+Dialogue: 0,0:02:50.79,0:02:52.75,Default,,0000,0000,0000,,Ah! If you look closely, \Nshe's actually sleeping!
+Dialogue: 0,0:02:55.52,0:02:59.33,Default,,0000,0000,0000,,Go on, say something to Yamashita's\Nwell-formed sub-personality!
+Dialogue: 0,0:02:59.88,0:03:01.03,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:03:01.03,0:03:04.35,Default,,0000,0000,0000,,Yamashita-san? Are you awake?
+Dialogue: 0,0:03:04.35,0:03:06.92,Default,,0000,0000,0000,,Direct all questions to my lawyer.
+Dialogue: 0,0:03:06.92,0:03:08.33,Default,,0000,0000,0000,,That's one aggressive personality...
+Dialogue: 0,0:03:09.58,0:03:11.04,Default,,0000,0000,0000,,Are you awake, Yamashita-san?
+Dialogue: 0,0:03:11.75,0:03:13.79,Default,,0000,0000,0000,,I had a dream I was being sexually harassed.
+Dialogue: 0,0:03:13.79,0:03:17.46,Default,,0000,0000,0000,,I'm sorry, Yamashita,\Nbut Tanaka WAS sexually harassing you just now.
+Dialogue: 0,0:03:17.46,0:03:19.51,Default,,0000,0000,0000,,Please stop spreading lies.
+Dialogue: 0,0:03:19.51,0:03:21.13,On Top,,0000,0000,0000,,Main
+Dialogue: 0,0:03:20.29,0:03:22.13,Default,,0000,0000,0000,,So, as you can see, conversation is possible\N
+Dialogue: 0,0:03:21.13,0:03:26.51,On Top,,0000,0000,0000,,Main\NSub
+Dialogue: 0,0:03:22.13,0:03:24.41,Default,,0000,0000,0000,,without a direct link to \Nthe sleeping consciousness.
+Dialogue: 0,0:03:24.42,0:03:26.51,Default,,0000,0000,0000,,It seems sort of like sleepwalking.
+Dialogue: 0,0:03:27.21,0:03:31.54,Default,,0000,0000,0000,,And now it is YOUR turn, Tanaka.\NOne can never have too much data!
+Dialogue: 0,0:03:31.88,0:03:34.08,Default,,0000,0000,0000,,When you take this, you \Nwill enter a deep sleep.
+Dialogue: 0,0:03:34.92,0:03:36.13,Default,,0000,0000,0000,,I have a bad feeling.
+Dialogue: 0,0:03:40.04,0:03:43.29,Default,,0000,0000,0000,,Oh, no! I really am getting sleep...
+Dialogue: 0,0:03:47.25,0:03:48.63,Default,,0000,0000,0000,,Tanaka, are you asleep?
+Dialogue: 0,0:03:48.63,0:03:49.88,Default,,0000,0000,0000,,I am.
+Dialogue: 0,0:03:54.88,0:03:56.63,Default,,0000,0000,0000,,Are you REALLY asleep?
+Dialogue: 0,0:03:57.17,0:03:58.38,Default,,0000,0000,0000,,I am asleep.
+Dialogue: 0,0:03:58.96,0:04:00.58,Default,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:04:01.96,0:04:03.54,Default,,0000,0000,0000,,What finger is this?
+Dialogue: 0,0:04:04.46,0:04:06.13,Default,,0000,0000,0000,,Your left pinky.
+Dialogue: 0,0:04:06.13,0:04:10.29,Default,,0000,0000,0000,,Oh, yeah? And what's your favorite food?
+Dialogue: 0,0:04:10.29,0:04:13.13,Default,,0000,0000,0000,,I like the outer skin of daifuku rice cakes.
+Dialogue: 0,0:04:13.83,0:04:17.58,Default,,0000,0000,0000,,Which do you prefer, long hair or short?
+Dialogue: 0,0:04:17.58,0:04:19.17,Default,,0000,0000,0000,,I like long hair.
+Dialogue: 0,0:04:19.75,0:04:21.21,Default,,0000,0000,0000,,Ooh, really?
+Dialogue: 0,0:04:21.79,0:04:22.58,Default,,0000,0000,0000,,Ma'am.
+Dialogue: 0,0:04:22.58,0:04:24.53,Default,,0000,0000,0000,,O-oh, yeah.
+Dialogue: 0,0:04:25.17,0:04:27.75,Default,,0000,0000,0000,,Now then, to get right to the point...
+Dialogue: 0,0:04:27.75,0:04:29.54,Default,,0000,0000,0000,,Hey, Tanaka.
+Dialogue: 0,0:04:30.46,0:04:32.04,Default,,0000,0000,0000,,The thing is...
+Dialogue: 0,0:04:33.13,0:04:38.92,Default,,0000,0000,0000,,Tanaka, would you say your \Nfeelings for me are-?
+Dialogue: 0,0:04:39.92,0:04:42.00,Default,,0000,0000,0000,,Ma'am, how did I do?
+Dialogue: 0,0:04:47.71,0:04:50.21,Default,,0000,0000,0000,,Staaaare
+Dialogue: 0,0:04:54.88,0:04:58.79,Default,,0000,0000,0000,,Ma'am, I'm awake. Like, completely awake.
+Dialogue: 0,0:05:02.21,0:05:03.04,Default,,0000,0000,0000,,Ma'am?
+Dialogue: 0,0:05:05.00,0:05:06.42,Default,,0000,0000,0000,,I'm so... asleep!
+Dialogue: 0,0:05:06.42,0:05:10.75,Default,,0000,0000,0000,,Ma'am? W-wait! Ma'am!
+Dialogue: 0,0:05:12.75,0:05:15.79,Default,,0000,0000,0000,,Are you going home already? It's quite early.
+Dialogue: 0,0:05:16.33,0:05:19.33,Default,,0000,0000,0000,,Yes, go back, hngrh...
+Dialogue: 0,0:05:18.00,0:05:19.00,On Top,,0000,0000,0000,,SCIENCE
+Dialogue: 0,0:05:22.92,0:05:24.71,Default,,0000,0000,0000,,Please be careful.
+Dialogue: 0,0:05:26.88,0:05:28.21,Default,,0000,0000,0000,,I wonder if she'll be all right...
+Dialogue: 0,0:05:30.92,0:05:33.38,Default,,0000,0000,0000,,The trial regarding this\Nsexual harassment case shall now begin!
+Dialogue: 0,0:05:33.38,0:05:34.83,Default,,0000,0000,0000,,Please don't be fooled by this.
+Dialogue: 0,0:05:35.21,0:05:38.04,Default,,0000,0000,0000,,I sentence the gutter trash\Nof a defendant named "Tanaka" to death!
+Dialogue: 0,0:05:38.04,0:05:38.92,Default,,0000,0000,0000,,Objection.
+Dialogue: 0,0:05:45.88,0:05:46.63,On Top,,0000,0000,0000,,SCIENCE
+Dialogue: 0,0:05:46.63,0:05:48.54,On Top,,0000,0000,0000,,SCIENCE\NExperiment No. 16\NPero-Lilion
+Dialogue: 0,0:05:48.54,0:05:51.54,On Top,,0000,0000,0000,,Experiment No. 16\NPero-Lilion
+Dialogue: 0,0:05:55.58,0:05:57.04,Default,,0000,0000,0000,,You're late, Tanaka!
+Dialogue: 0,0:06:00.21,0:06:01.33,Default,,0000,0000,0000,,Is my brother here?
+Dialogue: 0,0:06:02.83,0:06:05.21,Default,,0000,0000,0000,,They're not going to know \Nwho "my brother" is.
+Dialogue: 0,0:06:05.21,0:06:06.51,Default,,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:06:06.96,0:06:08.71,Default,,0000,0000,0000,,Is a 2nd-year named "Tanaka" here?!
+Dialogue: 0,0:06:08.71,0:06:09.79,Default,,0000,0000,0000,,Watch your tone!
+Dialogue: 0,0:06:10.17,0:06:12.38,Default,,0000,0000,0000,,No, Tanaka the 2nd-year hasn't shown up yet.
+Dialogue: 0,0:06:12.38,0:06:15.38,Default,,0000,0000,0000,,See? I told you we should \Nask the teachers first.
+Dialogue: 0,0:06:15.38,0:06:17.58,Default,,0000,0000,0000,,I'M the one who said that.
+Dialogue: 0,0:06:17.58,0:06:21.08,Default,,0000,0000,0000,,Ah, Yamashita-san!\NYou're in the same study club as well?
+Dialogue: 0,0:06:23.08,0:06:24.25,Default,,0000,0000,0000,,Is she in your class?
+Dialogue: 0,0:06:24.25,0:06:27.38,Default,,0000,0000,0000,,That's right. Wait, don't \Nyou know who that is?
+Dialogue: 0,0:06:27.88,0:06:30.00,Default,,0000,0000,0000,,She's Tanaka-sempai's younger sister.
+Dialogue: 0,0:06:32.33,0:06:33.63,Default,,0000,0000,0000,,Well, the thing is-
+Dialogue: 0,0:06:33.63,0:06:35.17,Default,,0000,0000,0000,,Wait, Yamashita-san!
+Dialogue: 0,0:06:35.88,0:06:38.50,Default,,0000,0000,0000,,It would seem some \Nintroductions are in order.
+Dialogue: 0,0:06:38.96,0:06:41.05,Default,,0000,0000,0000,,I'm Mizuna Tanaka from \NClass 1-2. My favorite food
+Dialogue: 0,0:06:41.05,0:06:43.29,Default,,0000,0000,0000,,is the fillings of \Ntraditional Japanese candy.
+Dialogue: 0,0:06:44.29,0:06:48.33,Default,,0000,0000,0000,,I'm Yomogi Tanaka from Class 1-6.\NMy favorite flavor is chocolate mint!
+Dialogue: 0,0:06:49.13,0:06:50.92,Default,,0000,0000,0000,,I'm the older twin sister...
+Dialogue: 0,0:06:51.54,0:06:52.51,Default,,0000,0000,0000,,And I'm the younger!
+Dialogue: 0,0:06:54.50,0:06:55.54,Default,,0000,0000,0000,,Wait, twins?!
+Dialogue: 0,0:06:55.54,0:06:58.75,Default,,0000,0000,0000,,Yamashita-san, is this the \Nfirst time to hear we're twins?
+Dialogue: 0,0:06:58.75,0:07:00.54,Default,,0000,0000,0000,,Well, we're not a lot alike.
+Dialogue: 0,0:07:00.54,0:07:03.88,Default,,0000,0000,0000,,Do you mind if we wait here \Ntill our brother shows up?
+Dialogue: 0,0:07:04.58,0:07:05.54,Default,,0000,0000,0000,,Feel free.
+Dialogue: 0,0:07:07.88,0:07:10.54,Default,,0000,0000,0000,,Strange... How could I \Nhave not known about this?
+Dialogue: 0,0:07:10.92,0:07:14.00,Default,,0000,0000,0000,,Still, in the past, I have spotted multiple\NTanaka heads poking out from the crowd.
+Dialogue: 0,0:07:14.00,0:07:18.25,Default,,0000,0000,0000,,I thought I was hallucinating,\Nbut looking back, I guess it was these two.
+Dialogue: 0,0:07:18.88,0:07:23.00,Default,,0000,0000,0000,,And yet, what does it mean that\NTanaka hasn't mentioned them even once?!
+Dialogue: 0,0:07:25.79,0:07:26.54,Default,,0000,0000,0000,,Staaare.
+Dialogue: 0,0:07:30.42,0:07:31.13,Default,,0000,0000,0000,,You want one?
+Dialogue: 0,0:07:31.71,0:07:32.51,Default,,0000,0000,0000,,Yaay!
+Dialogue: 0,0:07:34.75,0:07:38.21,Default,,0000,0000,0000,,This candy is SO delicious!
+Dialogue: 0,0:07:38.21,0:07:40.63,Default,,0000,0000,0000,,Me too! I want one!
+Dialogue: 0,0:07:41.71,0:07:44.17,Default,,0000,0000,0000,,Wow, you're right! It's choco-mint!
+Dialogue: 0,0:07:44.17,0:07:46.02,Default,,0000,0000,0000,,Huh? It tastes like soy flour, right?
+Dialogue: 0,0:07:46.02,0:07:49.63,Default,,0000,0000,0000,,What are you talking about, Mizuna-chan?\NThere's not a trace of soy flour in this!
+Dialogue: 0,0:07:49.63,0:07:54.24,Default,,0000,0000,0000,,Yeah, well, I'm not seeing\Nany signs of choco-mint either!
+Dialogue: 0,0:07:54.24,0:07:55.83,Default,,0000,0000,0000,,Sorry I'm late.
+Dialogue: 0,0:07:55.83,0:07:57.50,Default,,0000,0000,0000,,Ah! Brother!
+Dialogue: 0,0:07:58.04,0:08:01.29,Default,,0000,0000,0000,,Hey, Big Brother, look!\NWhat flavor do you think this candy is?
+Dialogue: 0,0:08:01.29,0:08:03.70,Default,,0000,0000,0000,,Personally, I think it \Ntastes like rice flour.
+Dialogue: 0,0:08:03.70,0:08:08.20,Default,,0000,0000,0000,,What are you doing here?\NAnd did you bring that candy to school?
+Dialogue: 0,0:08:08.20,0:08:10.71,Default,,0000,0000,0000,,No, your club president gave it to us!
+Dialogue: 0,0:08:10.71,0:08:14.05,Default,,0000,0000,0000,,Oh, really? It's all right if they have this?
+Dialogue: 0,0:08:14.42,0:08:16.01,Default,,0000,0000,0000,,S-sure, yeah.
+Dialogue: 0,0:08:16.50,0:08:18.96,Default,,0000,0000,0000,,It looks like something that she's made...
+Dialogue: 0,0:08:20.63,0:08:23.08,Default,,0000,0000,0000,,You two, give that back right now.
+Dialogue: 0,0:08:23.08,0:08:25.20,Default,,0000,0000,0000,,Come on, Big Brother, just listen!
+Dialogue: 0,0:08:25.20,0:08:30.04,Default,,0000,0000,0000,,This has a robust flavor, but then\Nthe sweetness of the soybeans really packs a punch,
+Dialogue: 0,0:08:30.04,0:08:31.96,Default,,0000,0000,0000,,resulting in the ideal flavor profile!
+Dialogue: 0,0:08:33.46,0:08:35.17,Default,,0000,0000,0000,,The slight bitterness of \Nthe chocolate enveloped
+Dialogue: 0,0:08:35.17,0:08:37.72,Default,,0000,0000,0000,,in sweet mint makes for \Na brisk taste sensation!
+Dialogue: 0,0:08:37.72,0:08:39.54,Default,,0000,0000,0000,,This is the picture of choco-mint!
+Dialogue: 0,0:08:39.54,0:08:44.08,Default,,0000,0000,0000,,What about this is choco-mint?!\NEvery single one of your taste buds is wrecked!
+Dialogue: 0,0:08:44.08,0:08:48.63,Default,,0000,0000,0000,,If THIS tastes like soy flour,\Nyou must think sand tastes pretty sweet!
+Dialogue: 0,0:08:49.29,0:08:50.29,Default,,0000,0000,0000,,Brother!
+Dialogue: 0,0:08:50.67,0:08:52.83,Default,,0000,0000,0000,,Tell us once and for all what flavor this is!
+Dialogue: 0,0:08:52.83,0:08:53.79,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:54.75,0:08:55.51,Default,,0000,0000,0000,,Cut that out.
+Dialogue: 0,0:08:55.51,0:08:57.25,Default,,0000,0000,0000,,Come on! Come on!
+Dialogue: 0,0:08:57.25,0:08:58.46,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:09:03.25,0:09:05.79,Default,,0000,0000,0000,,Don't put things in your mouth and\Nthen try giving them to other people!
+Dialogue: 0,0:09:06.33,0:09:07.00,On Top,,0000,0000,0000,,SHOCK
+Dialogue: 0,0:09:06.46,0:09:07.71,Default,,0000,0000,0000,,It's not like we're strangers...
+Dialogue: 0,0:09:07.71,0:09:09.38,Default,,0000,0000,0000,,And don't go splitting hairs!
+Dialogue: 0,0:09:09.79,0:09:12.85,Default,,0000,0000,0000,,You need to stop always acting like children.
+Dialogue: 0,0:09:12.85,0:09:15.35,Default,,0000,0000,0000,,This is why I don't introduce \Nyou to other people.
+Dialogue: 0,0:09:15.35,0:09:17.60,Default,,0000,0000,0000,,You haven't even shown your respects\Nto the club captain, have you?
+Dialogue: 0,0:09:17.60,0:09:18.83,Default,,0000,0000,0000,,Mizuna-chan...
+Dialogue: 0,0:09:18.83,0:09:20.53,Default,,0000,0000,0000,,No, we haven't.
+Dialogue: 0,0:09:20.53,0:09:24.88,Default,,0000,0000,0000,,Having you two around here\Nhas embarrassed me to no end.
+Dialogue: 0,0:09:24.88,0:09:27.50,Default,,0000,0000,0000,,Hey! You'll make Yomogi-chan cry!
+Dialogue: 0,0:09:27.50,0:09:28.83,Default,,0000,0000,0000,,I'm the one who wants to cry!
+Dialogue: 0,0:09:28.83,0:09:32.29,Default,,0000,0000,0000,,You two, line up.\NYou're going to apologize to the club captain.
+Dialogue: 0,0:09:32.75,0:09:34.63,Default,,0000,0000,0000,,I'm very sorry, Ma'am.
+Dialogue: 0,0:09:35.08,0:09:36.05,Default,,0000,0000,0000,,We're sorry.
+Dialogue: 0,0:09:36.05,0:09:38.38,Default,,0000,0000,0000,,No, no, really, it's fine.
+Dialogue: 0,0:09:38.38,0:09:40.51,Default,,0000,0000,0000,,Look, I have another candy \Nhere. There's one more.
+Dialogue: 0,0:09:40.51,0:09:43.63,Default,,0000,0000,0000,,Ma'am, I have a favor I'd like to ask.
+Dialogue: 0,0:09:44.21,0:09:47.17,Default,,0000,0000,0000,,Could you please explain\Nhow the candy works to these two?
+Dialogue: 0,0:09:48.54,0:09:51.61,Default,,0000,0000,0000,,If you do that, the way you always do,
+Dialogue: 0,0:09:51.61,0:09:55.03,Default,,0000,0000,0000,,I think they'll understand \Njust what they've done.
+Dialogue: 0,0:09:55.03,0:09:57.13,Default,,0000,0000,0000,,O-oh, yeah...
+Dialogue: 0,0:09:57.13,0:09:58.13,Default,,0000,0000,0000,,Please.
+Dialogue: 0,0:09:58.13,0:09:59.38,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:09:59.38,0:10:01.42,Default,,0000,0000,0000,,Still, I mean, you know...
+Dialogue: 0,0:10:01.42,0:10:04.54,Default,,0000,0000,0000,,I feel like the weather's turning bad.
+Dialogue: 0,0:10:04.54,0:10:08.04,Default,,0000,0000,0000,,I think maybe we should just \Ncall it quits for today.
+Dialogue: 0,0:10:08.04,0:10:10.17,Default,,0000,0000,0000,,There, you see?! You're the \Nones responsible for this!
+Dialogue: 0,0:10:11.17,0:10:12.63,Default,,0000,0000,0000,,You need to own up to what you've done!
+Dialogue: 0,0:10:13.42,0:10:16.83,Default,,0000,0000,0000,,Stop casually smacking us on the head!\NWe're not bongos, you know!
+Dialogue: 0,0:10:16.83,0:10:19.01,Default,,0000,0000,0000,,We're members of the Tanaka family,\Nnot percussion instruments!
+Dialogue: 0,0:10:19.46,0:10:23.71,Default,,0000,0000,0000,,The Pero-Lilion uses the newly discovered,\Nnext-century sweetener lolilion
+Dialogue: 0,0:10:23.71,0:10:26.75,Default,,0000,0000,0000,,to create a candy that has\Nno direct effect upon the body.
+Dialogue: 0,0:10:26.75,0:10:30.67,Default,,0000,0000,0000,,Instead, it induces a hallucinatory sense\Nof whatever the taster regards as "sweet."
