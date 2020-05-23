@@ -11,14 +11,14 @@ core.max_cache_size = 16000
 
 file = r'Breakers - 15v3 (NHKE).d2v'
 src = core.d2v.Source(file)
-deblock = haf.Deblock_QED(src)
-intele = lvf.deinterlace.decomb(deblock, TFF=True, decimate=True)
+intele = lvf.deinterlace.decomb(src, TFF=True, decimate=True)
 trim = intele[808:13729]
+deblock = fvf.AutoDeblock(trim)
 
 # eztrim(intele, (808,13729), 'Breakers - 15v3 (NHKE).ts')
 # generate(deblock, r'breakers15')
 
-crop = core.std.CropRel(trim, left="2", right="2")
+crop = core.std.CropRel(deblock, left="2", right="2")
 edge = core.edgefixer.Continuity(crop, 2, 0, 2, 0)
 
 depth = fvf.Depth(edge, 16)
