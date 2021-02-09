@@ -24,7 +24,7 @@ trim = depth(src[:-48], 16)
 
 # Audio
 out_path = __file__.replace('.vpy', '') + '_audio.wav'
-# eztrim(src, (0, -48), src_path, out_path)
+eztrim(src, (0, -48), src_path, out_path)
 
 # Edge cleaning
 edgefix = core.edgefixer.Continuity(trim, left=2, top=2, right=2, bottom=2)
@@ -46,7 +46,7 @@ merge = core.std.MaskedMerge(rescaled, y, mask)
 merge = join([merge, u, v])
 
 # Replace native 1080p scenes
-replace = lvf.rfs(merge, edgefix, mappings=native_1080)
+replace = lvf.rfs(merge, edgefix, native_1080)
 
 # Denoise
 denoise = CoolDegrain(replace, tr=2, thsad=64)

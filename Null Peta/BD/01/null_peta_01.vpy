@@ -25,12 +25,12 @@ trim = depth(src[24:-48], 16)
 
 # Audio
 out_path = __file__.replace('.vpy', '') + '_audio.wav'
-# eztrim(src, (24, -48), src_path, out_path)
+eztrim(src, (24, -48), src_path, out_path)
 
 # fix bd error on one scene
 tv = depth(core.lsmas.LWLibavSource(tv_path), 16)
 tv = tv.resize.Spline36(range_in_s="limited", range_s="full")
-fix = lvf.rfs(trim, tv, mappings=[(427, 521)])
+fix = lvf.rfs(trim, tv, [(427, 521)])
 
 # Edge cleaning
 edgefix = core.edgefixer.Continuity(fix, left=2, top=2, right=2, bottom=2)
@@ -52,7 +52,7 @@ merge = core.std.MaskedMerge(rescaled, y, mask)
 merge = join([merge, u, v])
 
 # Replace native 1080p scenes
-replace = lvf.rfs(merge, edgefix, mappings=native_1080)
+replace = lvf.rfs(merge, edgefix, native_1080)
 
 # Denoise
 denoise = CoolDegrain(replace, tr=2, thsad=64)
